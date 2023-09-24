@@ -147,10 +147,6 @@ useServerHead({
     },
   ],
   link: [
-    {
-      rel: 'profile',
-      href: 'https://gmpg.org/xfn/11',
-    },
   ],
 })
 
